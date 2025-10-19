@@ -43,7 +43,7 @@ RegisterCommand(Config.Commands.GiveItem, function(source, args)
     TriggerClientEvent('chat:addMessage', src, { args = {'^2SYSTEM',('Gave %s x%d to player [%d]').format(item, amount, targetId)} })
 end)
 
-
+--
 RegisterCommand(Config.Commands.GiveItemAll, function(source, args)
     local src = source
     local xPlayer = ESX.GetPlayerFromId(src)
