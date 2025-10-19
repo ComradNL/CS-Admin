@@ -110,3 +110,5 @@ Fully modular and ready for any ESX server
 Chat suggestions appear automatically for all commands
 
 🚀 Take full control of your ESX server with CS-Admin – the ultimate admin toolkit!
+
+Join the discord https://discord.gg/peebheH3
